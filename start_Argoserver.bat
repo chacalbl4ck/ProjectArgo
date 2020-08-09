@@ -1,0 +1,1 @@
+start argoserver.exe -port=33036 -config=server.cfg -profile=servidor
