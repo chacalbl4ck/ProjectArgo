@@ -5,8 +5,10 @@ Siga os passos seguintes para criar um servidor de Project Argo.
 1) Siga para https://steamcdn-a.akamaihd.net/client/installer/steamcmd.zip e baixe o SteamCMD. Faça o download, extraia em C: em uma pasta, para manter a organização. Depois de extrair, execute o arquivo "steamcmd.exe".
 
 2) Depois que executar o steamcmd.exe e terminar de atualizar, digite os seguintes comandos no console:
-*login anonymous
-*app_update 563930 -beta server validate
+
+login anonymous
+
+app_update 563930 -beta server validate
 
 3) Depois de baixar o servidor, baixe os dois arquivos do repositório "server.cfg" e "start_Argoserver.bat" e cole na pasta principal onde o jogo foi baixado (onde o arquivo "argoserver.exe" está).
 
